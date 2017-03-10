@@ -12,6 +12,7 @@ public class ENDE_2017 {
         System.out.println("AitorRammstein abandono el grupo" );
         System.out.println("como sabia que ibas a decir eso" );
         System.out.println("Ya era hora");
+        System.out.println("Francisco Franco se unió al grupo");
     }
     
 }
