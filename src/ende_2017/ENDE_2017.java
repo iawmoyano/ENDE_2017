@@ -11,6 +11,7 @@ public class ENDE_2017 {
         System.out.println("Álvaro Cifuentes se unió al proyecto de clase ENDE_2017");
         System.out.println("AitorRammstein abandono el grupo" );
         System.out.println("como sabia que ibas a decir eso" );
+        System.out.println("Ya era hora");
     }
     
 }
