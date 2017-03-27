@@ -20,6 +20,7 @@ public class ENDE_2017 {
         System.err.println("Hola alguien está estudiando ENDE ?");
         System.err.println("Hola David no lo pongas dificil eh ?");
         System.err.println("tendremos que estar al loro por si lo sube antes del examen no?");
+        System.out.println("alguien para recuperar");
     }
     
 }
