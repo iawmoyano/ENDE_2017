@@ -26,6 +26,8 @@ public class ENDE_2017 {
         System.out.println("hecho el commit ahora el push");
         System.out.println("pureba numero 4");
         System.out.println("pureba numero 5");
+        System.out.println("Repasando Git");
+        System.out.println("Repasando GitHUB");
         
     }
     
